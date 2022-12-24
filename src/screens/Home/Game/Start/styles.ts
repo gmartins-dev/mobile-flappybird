@@ -7,8 +7,8 @@ export const styles = StyleSheet.create({
         alignItems: 'center',
     },
     logo: {
-        width: 220,
-        height: 60
+        width: 200,
+        height: 50
     },
     playButton: {
         marginTop: 32,
