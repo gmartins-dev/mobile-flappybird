@@ -22,7 +22,7 @@
 ## 🗃 Project
 
 
-React Native Mobile Game App using React Native Engine and MatterJS.
+React Native Mobile Game App for iOS and Android using React Native Engine and MatterJS.
 
 
 
