@@ -53,7 +53,7 @@ This project used the following libraries:
 
 <p align="center">
 <kbd>
-<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/d7/aa/kzUpAROp_o.png" alt="">
+<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/d9/00/u3hDmTAb_o.png" alt="">
 </kbd>
 <kbd>
 <img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/45/4d/n2L9LWv6_o.png" alt="">
@@ -73,6 +73,8 @@ This project used the following libraries:
 <p  align="center">
 
 <img  alt="" width="1200px" src="https://images2.imgbox.com/64/de/CRLZ7Y23_o.gif" />
+  
+  ![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://images2.imgbox.com/64/de/CRLZ7Y23_o.gif))
 
 </p>
 
