@@ -106,7 +106,7 @@ To start it, follow the steps below:
 
 # Install the dependencies
 
-$ yarn or npm install
+$ yarn install or npm install
 
  
 # Start the application
