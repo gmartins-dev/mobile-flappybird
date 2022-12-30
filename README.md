@@ -3,7 +3,7 @@
 
 <p  align="center">
 
-<img  alt="Guilherme Martins - Frontend Developer"  src="https://images2.imgbox.com/dc/b1/MUltd8Qt_o.png" />
+<img  alt="Guilherme Martins - Frontend Developer"  src="https://images2.imgbox.com/dc/b1/MUltd8Qt_o.png" height="200"  width="400"  />
 
 </p>
 
@@ -19,20 +19,17 @@ Flapbird  - React Native Mobile Game App
   
 
 
-## 🗃 Projeto
+## 🗃 Project
 
 
-React Native Mobile Game App using xxx....
+React Native Mobile Game App using React Native Engine and MatterJS.
 
 
 
-## 🛠 Tecnologias
-
-  
+## 🛠 Technologies
 
 This project was mainly developed with the following technologies:
 
-  
 
 - <img  align="center"  alt="React"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React**
 
@@ -42,14 +39,13 @@ This project was mainly developed with the following technologies:
 
 - <img  align="center"  alt="Ts"  height="30"  width="30"  src="https://v4.mui.com/static/logo.png"> **Material Ui**
 
-  
-  
-  
 
-## 📕 Bibliotecas
+## 📕 Libraries
 
 
 This project used the following libraries:
+
+- [Reactive Native Engine](https://github.com/bberak/react-game-engine)
 
 - [MatterJS](https://brm.io/matter-js/)
 
@@ -82,25 +78,20 @@ This project used the following libraries:
 </p>
 
 
-  
 
 ## 🚀 How to run
 
-  
 
-Clone the project and access its folder.
+If you want to run the project on your local machine, just follow the steps below:
 
-  
 
 ```bash
 
 $ git clone https://github.com/guilhermemm-dev/mobile-flappybird
 
-$ cd react-mblabs
+$ cd mobile-flappybird
 
 ```
-
-  
 
 To start it, follow the steps below:
 
@@ -110,9 +101,8 @@ To start it, follow the steps below:
 
 $ yarn or npm install
 
-  
-
-# Iniciar o projeto
+ 
+# Start the application
 
 $ yarn start or npm run dev
 
@@ -132,7 +122,7 @@ This project is licensed under the MIT license.
 
   
 
-<img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000"  alt="License">
+<img src="https://img.shields.io/badge/license-MIT-success"/>
 
 </p>
 
@@ -146,10 +136,11 @@ This project is licensed under the MIT license.
 
 
 <h3> Guilherme Martins - @guilhermemm-dev </h3>
-  
 
-1. LinkedIn: https://www.linkedin.com/in/guilhermemm-dev
+- Portfolio: https://guilhermemm.dev
 
-2. GitHub: https://github.com/guilhermemm-dev
+- LinkedIn: https://www.linkedin.com/in/guilhermemm-dev
 
-3. Portfolio: https://guilhermemm.dev
+- GitHub: https://github.com/guilhermemm-dev
+
+- Email: contact@guilhermemm.dev
