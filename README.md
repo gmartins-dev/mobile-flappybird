@@ -1,11 +1,11 @@
 
   
 
-<p  align="center">
+<div  align="center">
 
-<img  alt="Guilherme Martins - Frontend Developer"  src="https://images2.imgbox.com/dc/b1/MUltd8Qt_o.png" height="250"  width="800"  />
+<img  alt="Guilherme Martins - Frontend Developer"  src="https://images2.imgbox.com/dc/b1/MUltd8Qt_o.png" width="40%"  />
 
-</p>
+</div>
 
   
 
