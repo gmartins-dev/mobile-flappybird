@@ -30,11 +30,11 @@ React Native Mobile Game App using React Native Engine and MatterJS.
 
 This project was developed with the following technologies:
 
-- <img  align="center"  alt="JavaScript"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> **JavaScript**
+  <img  align="center"  alt="JavaScript"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> **JavaScript**
 
-- <img  align="center"  alt="React Native"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React Native**
+  <img  align="center"  alt="React Native"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React Native**
 
- - <img  align="center"  alt="Expo"  height="30"  width="30"  src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s"> **Expo**
+  <img  align="center"  alt="Expo"  height="30"  width="30"  src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s"> **Expo**
 
 
 
