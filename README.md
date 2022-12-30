@@ -79,8 +79,15 @@ This project used the following libraries:
 
 ## 🚀 How to run
 
-
 If you want to run the project on your local machine, just follow the steps below:
+
+``bash 
+[![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.dev/client)
+
+First, make sure you have Expo CLI installed: 
+
+npm install -g expo-cli
+```
 
 
 ```bash
@@ -102,7 +109,7 @@ $ yarn or npm install
  
 # Start the application
 
-$ yarn start or npm run dev
+$ expo start
 
 ```
 
