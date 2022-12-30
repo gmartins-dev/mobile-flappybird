@@ -72,7 +72,7 @@ This project used the following libraries:
 
 <p  align="center">
   
-![](https://github.com/guilhermemm-dev/mobile-flappybird/flap-gif.gif)
+![](https://github.com/guilhermemm-dev/mobile-flappybird/blob/main/flap-gif.gif)
 
 </p>
 
