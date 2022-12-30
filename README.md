@@ -72,7 +72,7 @@ This project used the following libraries:
 
 <p  align="center">
 
-<img width="600" style="border-radius: 5px" height="450" src="![](https://github.com/guilhermemm-dev/mobile-flappybird/blob/main/flap-gif.gif)" alt="">
+<img width="600" style="border-radius: 5px" height="450" alt=""> ![](https://github.com/guilhermemm-dev/mobile-flappybird/blob/main/flap-gif.gif) </img>
 
 
 </p>
