@@ -71,9 +71,9 @@ This project used the following libraries:
 
 
 <p  align="center">
-  
+  <kbd>
 <img width="600" style="border-radius: 5px" height="450" src="https://github.com/guilhermemm-dev/mobile-flappybird/blob/main/flap-gif.gif" alt="">
-
+</kbd>
 </p>
 
 
