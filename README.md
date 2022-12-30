@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 
   <img  align="center"  alt="React Native"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React Native**
 
-  <img  align="center"  alt="Expo"  height="30"  width="30"  src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s"> **Expo**
+  <img  align="center"  alt="Expo"  height="30"  width="30"  src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s"> **Expo Go**
 
 
 
@@ -81,8 +81,10 @@ This project used the following libraries:
 
 If you want to run the project on your local machine, just follow the steps below:
 
-```bash 
 [![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.dev/client)
+
+
+```bash 
 
 First, make sure you have Expo CLI installed: 
 
@@ -113,11 +115,6 @@ $ expo start
 
 ```
 
-The application will be available in your browser at the address http://localhost:3000.
-
-  
-  
-  
 
 ## 📝 License
 
