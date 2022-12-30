@@ -71,10 +71,8 @@ This project used the following libraries:
 
 
 <p  align="center">
-
-<img  alt="" width="1200px" src="https://images2.imgbox.com/64/de/CRLZ7Y23_o.gif" />
   
-  ![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://images2.imgbox.com/64/de/CRLZ7Y23_o.gif))
+![](https://github.com/guilhermemm-dev/mobile-flappybird/flap-gif.gif)
 
 </p>
 
