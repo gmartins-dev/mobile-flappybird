@@ -18,7 +18,7 @@
   
   
 
-</br>
+
 ## 🗃 Project
 
 
@@ -26,6 +26,7 @@ React Native Mobile Game App for iOS and Android using React Native Engine and M
 
 
 </br>
+
 ## 🛠 Technologies
 
 This project was developed with the following technologies:
@@ -39,6 +40,7 @@ This project was developed with the following technologies:
 
 
 </br>
+
 ## 📕 Libraries
 
 
@@ -49,6 +51,7 @@ This project used the following libraries:
 - [MatterJS](https://brm.io/matter-js/)
 
 </br>
+
 ## 💻 Demonstration
 
 
@@ -77,6 +80,7 @@ This project used the following libraries:
 </p>
 
 </br>
+
 ## 🚀 How to run
 
 If you want to run the project on your local machine, just follow the steps below:
