@@ -70,9 +70,9 @@ This project used the following libraries:
 </p>
 
 
-<p  align="center">
+<p  align="center" width="600" style="border-radius: 5px" height="450">
 
-<div width="600" style="border-radius: 5px" height="450"> ![](https://github.com/guilhermemm-dev/mobile-flappybird/blob/main/flap-gif.gif) </div>
+![](https://github.com/guilhermemm-dev/mobile-flappybird/blob/main/flap-gif.gif) 
 
 
 </p>
