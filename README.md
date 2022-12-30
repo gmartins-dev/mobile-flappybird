@@ -28,16 +28,15 @@ React Native Mobile Game App using React Native Engine and MatterJS.
 
 ## 🛠 Technologies
 
-This project was mainly developed with the following technologies:
+This project was developed with the following technologies:
+
+- <img  align="center"  alt="JavaScript"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> **JavaScript**
+
+- <img  align="center"  alt="React Native"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React Native**
+
+ - <img  align="center"  alt="Expo"  height="30"  width="30"  src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s"> **Expo**
 
 
-- <img  align="center"  alt="React"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React**
-
-  
-
-- <img  align="center"  alt="Ts"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> **TypeScript**
-
-- <img  align="center"  alt="Ts"  height="30"  width="30"  src="https://v4.mui.com/static/logo.png"> **Material Ui**
 
 
 ## 📕 Libraries
@@ -51,6 +50,15 @@ This project used the following libraries:
 
 
 ## 💻 Demonstration
+
+<p align="center">
+<kbd>
+<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/d7/aa/kzUpAROp_o.png" alt="Intro">
+</kbd>
+<kbd>
+<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/8d/15/jHs3tUBR_o.png" alt="Intro">
+</kbd>
+</p>
 
 
 <p  align="center">
