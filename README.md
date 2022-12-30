@@ -70,7 +70,7 @@ This project used the following libraries:
 </p>
 
 
-<p  align="center">
+<p  align="center" width="600">
   
 ![](https://github.com/guilhermemm-dev/mobile-flappybird/blob/main/flap-gif.gif)
 
