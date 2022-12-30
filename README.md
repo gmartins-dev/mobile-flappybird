@@ -53,35 +53,26 @@ This project used the following libraries:
 
 <p align="center">
 <kbd>
-<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/d7/aa/kzUpAROp_o.png" alt="Intro">
+<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/d7/aa/kzUpAROp_o.png" alt="">
 </kbd>
 <kbd>
-<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/8d/15/jHs3tUBR_o.png" alt="Intro">
+<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/45/4d/n2L9LWv6_o.png" alt="">
+</kbd>
+</p>
+
+<p align="center">
+<kbd>
+<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/fb/a8/a2BFIMgn_o.png" alt="">
+</kbd>
+<kbd>
+<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/13/e9/Dm3Goluu_o.png" alt="">
 </kbd>
 </p>
 
 
 <p  align="center">
 
-<img  alt="Print1" width="1200px" src="https://images2.imgbox.com/cf/1b/md8r7Ja3_o.png" />
-
-</p>
-
-<p  align="center">
-
-<img  alt="Print2" width="1200px" src="https://images2.imgbox.com/09/90/AIMYw3Pw_o.png" />
-
-</p>
-
-<p  align="center">
-
-<img  alt="Print3" width="1200px" src="https://images2.imgbox.com/cb/cd/N7NwfRfO_o.png" />
-
-</p>
-
-<p  align="center">
-
-<img  alt="Print4" width="1200px" src="https://images2.imgbox.com/9a/7e/blkrY5Eg_o.png" />
+<img  alt="" width="1200px" src="https://images2.imgbox.com/64/de/CRLZ7Y23_o.gif" />
 
 </p>
 
