@@ -51,6 +51,13 @@ This project used the following libraries:
 
 ## 💻 Demonstration
 
+
+<p  align="center">
+  <kbd>
+<img width="615" style="border-radius: 5px" height="450" src="https://github.com/guilhermemm-dev/mobile-flappybird/blob/main/flap-gif.gif" alt="">
+</kbd>
+</p>
+
 <p align="center">
 <kbd>
 <img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/d9/00/u3hDmTAb_o.png" alt="">
@@ -68,14 +75,6 @@ This project used the following libraries:
 <img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/13/e9/Dm3Goluu_o.png" alt="">
 </kbd>
 </p>
-
-
-<p  align="center">
-  <kbd>
-<img width="600" style="border-radius: 5px" height="450" src="https://github.com/guilhermemm-dev/mobile-flappybird/blob/main/flap-gif.gif" alt="">
-</kbd>
-</p>
-
 
 
 ## 🚀 How to run
