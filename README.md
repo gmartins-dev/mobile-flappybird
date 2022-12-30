@@ -11,7 +11,7 @@
 
 <h1  align="center">
 
-Flapbird  - React Native Mobile Game App
+🐥 Flapbird  - React Native Mobile Game App 🕹
 
 </h1>
 
