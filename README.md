@@ -3,7 +3,7 @@
 
 <p  align="center">
 
-<img  alt="Guilherme Martins - Frontend Developer"  src="https://images2.imgbox.com/dc/b1/MUltd8Qt_o.png" height="400"  width="700"  />
+<img  alt="Guilherme Martins - Frontend Developer"  src="https://images2.imgbox.com/dc/b1/MUltd8Qt_o.png" height="250"  width="800"  />
 
 </p>
 
