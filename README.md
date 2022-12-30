@@ -3,7 +3,7 @@
 
 <div  align="center">
 
-<img  alt="Guilherme Martins - Frontend Developer"  src="https://images2.imgbox.com/dc/b1/MUltd8Qt_o.png" width="40%"  />
+<img  alt="Guilherme Martins - Frontend Developer"  src="https://images2.imgbox.com/ae/e8/W7QmciDO_o.png" width="40%"  />
 
 </div>
 
