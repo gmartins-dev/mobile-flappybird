@@ -18,14 +18,14 @@
   
   
 
-
+</br>
 ## 🗃 Project
 
 
 React Native Mobile Game App for iOS and Android using React Native Engine and MatterJS.
 
 
-
+</br>
 ## 🛠 Technologies
 
 This project was developed with the following technologies:
@@ -38,7 +38,7 @@ This project was developed with the following technologies:
 
 
 
-
+</br>
 ## 📕 Libraries
 
 
@@ -48,35 +48,35 @@ This project used the following libraries:
 
 - [MatterJS](https://brm.io/matter-js/)
 
-
+</br>
 ## 💻 Demonstration
 
 
 <p  align="center">
   <kbd>
-<img width="615" style="border-radius: 5px" height="450" src="https://github.com/guilhermemm-dev/mobile-flappybird/blob/main/flap-gif.gif" alt="">
+<img width="615" style="border-radius: 5px" height="400" src="https://github.com/guilhermemm-dev/mobile-flappybird/blob/main/flap-gif.gif" alt="">
 </kbd>
 </p>
 
 <p align="center">
 <kbd>
-<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/d9/00/u3hDmTAb_o.png" alt="">
+<img width="300" style="border-radius: 5px" height="600" src="https://images2.imgbox.com/d9/00/u3hDmTAb_o.png" alt="">
 </kbd>
 <kbd>
-<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/45/4d/n2L9LWv6_o.png" alt="">
+<img width="300" style="border-radius: 5px" height="600" src="https://images2.imgbox.com/45/4d/n2L9LWv6_o.png" alt="">
 </kbd>
 </p>
 
 <p align="center">
 <kbd>
-<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/fb/a8/a2BFIMgn_o.png" alt="">
+<img width="300" style="border-radius: 5px" height="600" src="https://images2.imgbox.com/fb/a8/a2BFIMgn_o.png" alt="">
 </kbd>
 <kbd>
-<img width="300" style="border-radius: 5px" height="450" src="https://images2.imgbox.com/13/e9/Dm3Goluu_o.png" alt="">
+<img width="300" style="border-radius: 5px" height="600" src="https://images2.imgbox.com/13/e9/Dm3Goluu_o.png" alt="">
 </kbd>
 </p>
 
-
+</br>
 ## 🚀 How to run
 
 If you want to run the project on your local machine, just follow the steps below:
@@ -114,7 +114,7 @@ $ yarn install or npm install
 $ expo start
 
 ```
-
+</br>
 
 ## 📝 License
 
@@ -130,9 +130,9 @@ This project is licensed under the MIT license.
 
   
   
-
+</br>
 <hr/>
-
+</br>
   
 
 
